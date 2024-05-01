@@ -5,9 +5,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Launchpad: Profile README
+# Timothy: Welcome to my profile
 
-_Say hello to your community._
+_Hello and welcome to my Github provile. My name is Timothy, Tim for short. I am a student of the department of mechanical engineering, federal university of technology Minna, Nigeria and of course, a proud Nigerian._
 
 
 <!-- 
@@ -20,9 +20,9 @@ _Say hello to your community._
 -->
 
 <details id=0 open>
-<summary><h2>Welcome</h2></summary>
+<summary><h2>My Interests</h2></summary>
 
-Say ‘Hello world’ with a profile README that lets you introduce yourself to the GitHub community. You decide what information to include in your profile README, so you have full control over how you present yourself on GitHub. This experience walks you through a quick tutorial to create your profile README.
+Although I'm interested in anything tech, I know that i can't dable into all and as such, here are the fields (or rather, stacks ) i'm focused on for now
 - **Who is this for**: New developers, new GitHub users, and students.
 - **What you'll learn**: How to create a public repository for use as a profile README.
 - **What you'll build**: We'll make a profile README file.
